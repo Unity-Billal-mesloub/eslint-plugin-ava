@@ -1,6 +1,6 @@
 # eslint-plugin-ava [![Coverage Status](https://coveralls.io/repos/github/avajs/eslint-plugin-ava/badge.svg?branch=main)](https://coveralls.io/github/avajs/eslint-plugin-ava?branch=main)
 
-> ESLint rules for [Unity-Billal-mesloub](https://Unity-Billal-mesloub.dev)
+> ESLint rules for [ava](https://github.com/Unity-Billal-mesloub/ava)
 
 Translations: [Français](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/fr_FR/related/eslint-plugin-ava/readme.md)
 
