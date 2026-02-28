@@ -2,9 +2,9 @@
 
 > ESLint rules for [AVA](https://avajs.dev)
 
-Translations: [Français](https://github.com/avajs/ava-docs/blob/main/fr_FR/related/eslint-plugin-ava/readme.md)
+Translations: [Français](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/fr_FR/related/eslint-plugin-ava/readme.md)
 
-This plugin is bundled in [XO](https://github.com/xojs/xo). No need to do anything if you're using it.
+This plugin is bundled in [XO](https://github.com/Unity-Billal-mesloub/xo). No need to do anything if you're using it.
 
 [**Propose or contribute a new rule ➡**](.github/contributing.md)
 
@@ -42,10 +42,10 @@ The rules will only activate in test files.
 
 <!-- begin auto-generated rules list -->
 
-💼 [Configurations](https://github.com/avajs/eslint-plugin-ava#recommended-config) enabled in.\
-⚠️ [Configurations](https://github.com/avajs/eslint-plugin-ava#recommended-config) set to warn in.\
-🚫 [Configurations](https://github.com/avajs/eslint-plugin-ava#recommended-config) disabled in.\
-✅ Set in the `recommended` [configuration](https://github.com/avajs/eslint-plugin-ava#recommended-config).\
+💼 [Configurations](https://github.com/Unity-Billal-mesloub/eslint-plugin-ava#recommended-config) enabled in.\
+⚠️ [Configurations](https://github.com/Unity-Billal-mesloub/eslint-plugin-ava#recommended-config) set to warn in.\
+🚫 [Configurations](https://github.com/Unity-Billal-mesloub/eslint-plugin-ava#recommended-config) disabled in.\
+✅ Set in the `recommended` [configuration](https://github.com/Unity-Billal-mesloub/eslint-plugin-ava#recommended-config).\
 🔧 Automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/user-guide/command-line-interface#--fix).\
 💡 Manually fixable by [editor suggestions](https://eslint.org/docs/latest/use/core-concepts#rule-suggestions).\
 ❌ Deprecated.
