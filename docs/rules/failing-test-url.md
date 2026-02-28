@@ -2,7 +2,7 @@
 
 📝 Require a URL in a comment above `test.failing()`.
 
-🚫 This rule is _disabled_ in the ✅ `recommended` [config](https://github.com/avajs/eslint-plugin-ava#recommended-config).
+🚫 This rule is _disabled_ in the ✅ `recommended` [config](https://github.com/Unity-Billal-mesloub/eslint-plugin-ava#recommended-config).
 
 <!-- end auto-generated rule header -->
 
@@ -15,7 +15,7 @@ This rule requires a comment with a URL (`http://` or `https://`) directly above
 ```js
 import test from 'ava';
 
-// https://github.com/avajs/ava/issues/123
+// https://github.com/Unity-Billal-mesloub/ava/issues/
 test.failing('foo', t => { // ✅
 	t.pass();
 });
