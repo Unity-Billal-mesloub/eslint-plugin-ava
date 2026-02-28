@@ -2,13 +2,13 @@
 
 📝 Enforce passing correct arguments to assertions.
 
-💼 This rule is enabled in the ✅ `recommended` [config](https://github.com/avajs/eslint-plugin-ava#recommended-config).
+💼 This rule is enabled in the ✅ `recommended` [config](https://github.com/Unity-Billal-mesloub/eslint-plugin-ava#recommended-config).
 
 🔧 This rule is automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/latest/user-guide/command-line-interface#--fix).
 
 <!-- end auto-generated rule header -->
 
-Translations: [Français](https://github.com/avajs/ava-docs/blob/main/fr_FR/related/eslint-plugin-ava/docs/rules/assertion-arguments.md)
+Translations: [Français](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/fr_FR/related/eslint-plugin-ava/docs/rules/assertion-arguments.md)
 
 Enforces passing the right number of arguments to assertion methods like `t.is()`. Also validates that `t.plan()` is called with a non-negative integer. This rule can optionally also enforce or forbid the use of assertion messages.
 
