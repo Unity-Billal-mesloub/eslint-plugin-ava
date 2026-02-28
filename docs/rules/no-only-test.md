@@ -2,13 +2,13 @@
 
 📝 Disallow `test.only()`.
 
-💼 This rule is enabled in the ✅ `recommended` [config](https://github.com/avajs/eslint-plugin-ava#recommended-config).
+💼 This rule is enabled in the ✅ `recommended` [config](https://github.com/Unity-Billal-mesloub/eslint-plugin-ava#recommended-config).
 
 💡 This rule is manually fixable by [editor suggestions](https://eslint.org/docs/latest/use/core-concepts#rule-suggestions).
 
 <!-- end auto-generated rule header -->
 
-Translations: [Français](https://github.com/avajs/ava-docs/blob/main/fr_FR/related/eslint-plugin-ava/docs/rules/no-only-test.md)
+Translations: [Français](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/fr_FR/related/eslint-plugin-ava/docs/rules/no-only-test.md)
 
 It's easy to run only one test with `test.only()` and then forget about it. It's visible in the results, but still easily missed. Forgetting to remove `.only`, means only this one test in the whole file will run, and if not caught, can let serious bugs slip into your codebase.
 
