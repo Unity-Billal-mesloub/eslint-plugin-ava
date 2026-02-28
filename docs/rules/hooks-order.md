@@ -2,13 +2,13 @@
 
 📝 Enforce test hook ordering.
 
-💼 This rule is enabled in the ✅ `recommended` [config](https://github.com/avajs/eslint-plugin-ava#recommended-config).
+💼 This rule is enabled in the ✅ `recommended` [config](https://github.com/Unity-Billal-mesloub/eslint-plugin-ava#recommended-config).
 
 🔧 This rule is automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/latest/user-guide/command-line-interface#--fix).
 
 <!-- end auto-generated rule header -->
 
-Translations: [Français](https://github.com/avajs/ava-docs/blob/main/fr_FR/related/eslint-plugin-ava/docs/rules/hooks-order.md)
+Translations: [Français](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/fr_FR/related/eslint-plugin-ava/docs/rules/hooks-order.md)
 
 Hooks should be placed before any tests and in the proper semantic order:
 
