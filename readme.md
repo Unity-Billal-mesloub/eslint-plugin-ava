@@ -14,7 +14,7 @@ This plugin is bundled in [XO](https://github.com/Unity-Billal-mesloub/xo). No n
 npm install --save-dev eslint eslint-plugin-ava
 ```
 
-**Requires ESLint `>=10`, [flat config](https://eslint.org/docs/latest/use/configure/configuration-files), and [ESM](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c).**
+**Requires ESLint `>=10`, [flat config](https://eslint.org/docs/latest/use/configure/configuration-files), and [ESM](https://gist.github.com/Unity-Billal-mesloub/a39789f98801d908bbc7ff3ecc99d99c).**
 
 ## Usage
 
